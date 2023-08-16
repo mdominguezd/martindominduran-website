@@ -8,7 +8,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: About me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: features
@@ -185,10 +185,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
+        - name: Dashboard
+          tag: Dashboard
         - name: Deep Learning
           tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Environmental Health
+          tag: Environmental Health
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

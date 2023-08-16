@@ -3,8 +3,8 @@
 title: Martín Domínguez Durán
 
 # Full name (for SEO)
-first_name: Martín
-last_name: Domínguez Durán
+first_name: Martin
+last_name: Dominguez Duran
 
 # Status emoji
 status:
@@ -36,16 +36,16 @@ education:
   courses:
     - course: MSc Geo-Information Science
       institution: Wageningen University & Research
-      year: (Present)
+      year: (2022 - Present)
     - course: BSc in Geosciences
       institution: Universidad de Los Andes
-      year: (2021)
+      year: (2016 - 2021)
     - course: BSc in Environmental Engineering
       institution: Universidad de Los Andes
-      year: (2021)
+      year: (2016 - 2021)
     - course: Minor in Photography
       institution: Universidad de Los Andes
-      year: (2021)
+      year: (2018 - 2021)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -75,5 +75,5 @@ email: ''
 highlight_name: true
 ---
 
-**Environmental Engineer** and **Geoscientist** from *Los Andes University, Bogotá, Colombia* and **MSc Geo-Information student** at *Wageningen University & Research*, The Netherlands. I am a dynamic, hardworking and curious professional with a particular interest in research topics involving environmental health, data science, deep learning and remote sensing. I am passionate about making scientific research reproducible and accessible in non-scientific contexts by the creation of interactive dashboards.
+I am a dynamic, hardworking and curious professional with a particular interest in research topics involving environmental health, data science, deep learning and remote sensing. I am passionate about making scientific research reproducible and accessible in non-scientific contexts by the creation of interactive dashboards.
 {style="text-align: justify;"}
