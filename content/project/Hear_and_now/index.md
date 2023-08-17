@@ -30,7 +30,7 @@ url_video: ''
 <!-- slides: example -->
 ---
 
-Hear and Now was born as a project for the Geo Information Science and Remote Sensing intergration course given for master's students in Wageningen University & Research. During this course, together with other 5 master's students, we visited the beautiful Achterhoek region in the Netherlands. During out time there we fell in love with the enchanting songs of birds in the region. Because of this we developed a web application for bird watchers or bird waching enthusiasts like us. Our main objective with this application is to make people more aware of thebiodivesity around them.
+Hear and Now was born as a project for the Geo Information Science and Remote Sensing intergration course given for master's students in Wageningen University & Research. During this course, together with other 5 master's students, we visited the beautiful Achterhoek region in the Netherlands. During out time there we fell in love with the enchanting songs of birds in the region. Because of this, we developed a web application for bird watchers or bird waching enthusiasts like us. Our main objective with this application is to make people more aware of the biodivesity around them.
 
 In our web application you will find what you need to boost your love for bird watching. In it you can either detect birds using audio files or check some birds that have been seen nearby. Right now the default coordinates are the ones in the Achterhoek region, nevertheless, you can simply change this by modifying the values in Latitude and Longitude.
 

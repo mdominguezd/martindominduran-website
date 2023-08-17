@@ -1,0 +1,40 @@
+# Theme metadata
+name = "mdd_theme"
+
+# Is theme light or dark?
+[light]
+  # Primary
+  primary = "#999999"
+
+  # Menu
+  menu_primary = "#3b4954"
+  menu_text = "#e3e3e3"
+  menu_text_active = "#509fb5"
+  menu_title = "#ffffff"
+
+  # Backgrounds
+  background = "#ffffff"
+  home_section_odd = "#F7F7F7"
+  home_section_even = "#e0e0e0"
+
+  link = "#2b6f82"
+  link_hover = "#509fb5"
+
+# Is theme light or dark?
+[dark]
+  # Primary
+  primary = "#526c80"
+
+  # Menu
+  menu_primary = "#3b3f54"
+  menu_text = "#e3e3e3"
+  menu_text_active = "#b8b8b8"
+  menu_title = "#ffffff"
+
+  # Backgrounds
+  background = "#3b3f54"
+  home_section_odd = "#F7F7F7"
+  home_section_even = "#F7F7F7"
+
+  link = "#2b6f82"
+  link_hover = "#509fb5"
