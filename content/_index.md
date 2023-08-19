@@ -56,7 +56,7 @@ sections:
           date_start: '2021-11-01'
           date_end: '2022-01-01'
           description: |2-
-              Conducting the study ["Residential radon concentrations in Bogota and neighbouring municipalities, Colombia: Results of an exploratory study"](https://goldschmidtabstracts.info/2022/9273.pdf) under the supervision of professor [C. Huguet](https://www.linkedin.com/in/carme-huguet-7769b991/)
+              Conducting the study ["Residential radon concentrations in Bogota and neighbouring municipalities, Colombia: Results of an exploratory study"](https://repositorio.uniandes.edu.co/handle/1992/53124) under the supervision of professor [C. Huguet](https://www.linkedin.com/in/carme-huguet-7769b991/)
         - title: Technical advisor on [Agrosat](https://agrosat.cl/) services
           company: Nutrición de plantas S.A.
           company_url: ''
@@ -189,7 +189,7 @@ sections:
       title: Photography
       subtitle: 'Whenever I am not studying/working, I love to take pictures. Here are some of them. Hope you like them :)'
       text: |-
-        {{< gallery album="photography" >}}
+         {{< gallery album="photography">}}
     design:
       columns: '1'
   - block: contact
