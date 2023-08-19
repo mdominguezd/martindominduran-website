@@ -37,10 +37,10 @@ education:
     - course: MSc Geo-Information Science
       institution: Wageningen University & Research
       year: (2022 - Present)
-    - course: BSc in Geosciences
+    - course: BSc Geosciences
       institution: Universidad de Los Andes
       year: (2016 - 2021)
-    - course: BSc in Environmental Engineering
+    - course: BSc Environmental Engineering
       institution: Universidad de Los Andes
       year: (2016 - 2021)
     - course: Minor in Photography
