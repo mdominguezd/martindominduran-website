@@ -159,6 +159,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: 'OpenGeoHub Summer School'
+          organization: OpenGeoHub
+          certificate_url: uploads/Martín_Dominguez_Duran_OpenGeoHub_SummerSchool_certificate.pdf
+          date_start: '2023-08-27'
+          date_end: '2023-09-03'
+          company_logo: OGH
+          description: The Summer School offered by [OpenGeoHub](https://opengeohub.org/) is an annual event that has been running at various locations since 2010, inviting researchers and specialists in developing open-source software and open data to help others improve analysis and modeling frameworks. The 2023 event was organized in collaboration with the Adam Mickiewicz University in Poznan (Poland). The Summer School consisted of live presentations and demos by leading R and OSGeo developers, workshops, discussion panels, machine learning competitions, and several social events.
         - certificate_url: https://coursera.org/share/ca9977bc6a6c478ea000fd4b0c5ec41c
           date_end: ''
           date_start: '2022-01-01'
