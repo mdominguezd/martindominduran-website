@@ -3,7 +3,7 @@ title: 'Domain Adaptation methods for mapping cashew crops in Africa'
 summary: Here you can check the work that I have been doing for my Geo-Infromation Science MSc thesis.
 tags:
   - Deep Learning
-date: '2023-06-11'
+date: '2023-08-11'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -36,7 +36,7 @@ In my MSc thesis, I will be implementing domain adaptation techniques to semanti
 
 **Initial results**
 
-Some initial results are shown on the figure below. Numerically the implementation of the DANN network is imporving the accuracy, however when the actual segmentation is evaluated, it is evident that the models need to improve. 
+Some initial results are shown on the figure below. Numerically the implementation of the DANN network is improving the accuracy, however when the actual segmentation is evaluated, it is evident that the models need to improve. 
 
 If you have any suggestions on how to improve the models, feel free to hit me up with an e-mail :).
 
