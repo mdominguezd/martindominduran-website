@@ -1,5 +1,5 @@
 ---
-title: 'Domain Adaptation methods for mapping cashew crops in Africa'
+title: 'Bridging domains: Assessment of Domain Adaptation methods for mapping Cashew crops in Africa'
 summary: Here you can check the work that I have been doing for my Geo-Infromation Science MSc thesis.
 tags:
   - Deep Learning
@@ -9,14 +9,18 @@ date: '2023-08-11'
 external_link: ''
 
 image:
-  caption: Density of labels of cashew crops in source and target domains
+  caption: Figure created to ilustrate the domain gap between cashew crops in Ivory Coast and Tanzania.
   focal_point: Smart
 
 links:
   - icon: github
     icon_pack: fab
     name: Go to the repo
-    url: https://github.com/mdominguezd/DomainAdaptationCashewCropMapping_MGIThesis
+    url: https://github.com/mdominguezd/Thesis_model_training
+  - icon: file
+    icon_pack: fab
+    name: Documentation
+    url: https://mdominguezd.github.io/CashewDA-docs/
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -30,14 +34,8 @@ url_video: ''
 <!-- slides: example -->
 ---
 
-In a nutshell, DA makes it possible to apply one model that has been trained in one source domain (dataset) to a target domain (dataset) that has a different data distribution than the source domain and that may have less or may not have any labels for training. The study area of my thesis will be Ivory Coast, which will be considered the source domain, and Tanzania, that will be the target domain.
+**Abstract**
 
-In my MSc thesis, I will be implementing domain adaptation techniques to semantic segmentation models for cashew crop mapping in Africa to assess their potential for increasing the generalization capabilities of the models. More sepecifically, I will work with an adapted U-Net following the main ideas of the Domain Adversarial Neural Network (DANN) proposed by Ganin et al. (2015). 
-
-**Initial results**
-
-Some initial results are shown on the figure below. Numerically the implementation of the DANN network is improving the accuracy, however when the actual segmentation is evaluated, it is evident that the models need to improve. 
-
-If you have any suggestions on how to improve the models, feel free to hit me up with an e-mail :).
+The recent implementation of commodity crop import regulations has highlighted the importance of refining crop mapping techniques from a regional to a global scale. Deep Learning models have shown great performance on this task. However, they struggle when trained on small or poor-quality datasets, and when implemented on a different domain than the one on which they were trained. Domain adaptation techniques emerge to address these issues. In this study, the performance of adversarial domain adaptation techniques was assessed for increasing the generalization capabilities of cashew crop semantic segmentation models trained on a source domain and applied to a target domain. Notably, an Attention U-Net + DANN model was trained using both a land cover benchmark dataset and a dataset created using PlanetScope images containing cashew crops from Ivory Coast (source domain) and Tanzania (target domain). Firstly, the shift between domains was evaluated through a time series analysis, an input and an inner feature distribution analysis. Secondly, the performance of the domain adaptation methods was assessed by comparing an unsupervised and a semi-supervised scenario with a lower-bound (source-only) and an upper-bound model (target-only). Finally, a web-application was built to locate cashew crops in the regions of interest and label data in these data-scarce regions. The proposed network reached a lower-bound F1-score of 0.02, an upper-bound F1-score of 0.62 and a relative improvement of 27% using domain adaptation. While the use of domain adaptation on the cashew dataset yielded a minor improvement, these methods demonstrated success on the semi-supervised scenario (92%) and on the benchmark dataset (45%). The low performances on the cashew dataset were attributed to the initial shift between the crop characteristics across the domains and the inherent difficulty faced by the domain adaptation method in aligning them. In addition, this study suggests that the domain shift observed is influenced by seasonal environmental variations, differences in cultivation practices, and potential sensor characteristic variations. Finally, the low performances of this study highlighted the need for improved data quality and expanded datasets in the domains studied. 
 
 ![Initial U-Net+DANN results](GoodDannResults.png)
