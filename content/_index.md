@@ -40,6 +40,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Data Intern
+          company: Satelligence
+          company_url: https://www.satelligence.com/
+          company_logo: Satelligence
+          location: Utrecht, Netherlands
+          date_start: '2024-04-01'
+          date_end: '2024-08-01'
+          description: During a 4 months internship I worked on the integration of cloud-optimized data formats, cloud services, and Spatio-Temporal Asset Catalog (STAC) specifications to improve data discovery and visualization in the company.
         - title: GIS technology advisor
           company: Avinal S.A.
           company_url: https://avinal.com.co/

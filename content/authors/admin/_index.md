@@ -14,13 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MSc. Geo-Information Science Student
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Wageningen University & Research
-    url: https://www.wur.nl
-
+    url: https://www.wur.nl/en/persons/martin-dominguez-duran-1.htm
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include environmental health, data science, deep learning and remote sensing.
 
@@ -35,6 +34,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD Candidate
+      institution: Wageningen University & Research
+      year: (2025 - Present)
     - course: MSc Geo-Information Science
       institution: Wageningen University & Research
       year: (2022 - 2024)
@@ -76,5 +78,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a dynamic, hardworking and curious professional with a particular interest in research topics involving environmental health, data science, deep learning and remote sensing. I am passionate about making scientific research reproducible and accessible in non-scientific contexts by the creation of interactive dashboards.
+I amdynamic, hardworking, and curious professional with a particular interest in research topics related to environmental health, air quality, data science, and remote sensing. Currently, I am investigating the effects of fires on vegetation structural changes by integrating multiple Earth observation datasets, specifically Spaceborne lidar (GEDI) and multi-frequency radar and optical data. I am passionate about making scientific research reproducible and accessible in non-scientific contexts through the creation of interactive dashboards.
 {style="text-align: justify;"}
