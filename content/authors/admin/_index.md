@@ -28,7 +28,8 @@ bio: My research interests include environmental health, data science, deep lear
 interests:
   - Remote sensing
   - Deep learning
-  - Environmental Health
+  - Fire dynamics
+  - Spaceborne LiDAR
   - Dashboard creation
 
 # Education to show in About widget
@@ -36,7 +37,7 @@ education:
   courses:
     - course: MSc Geo-Information Science
       institution: Wageningen University & Research
-      year: (2022 - Present)
+      year: (2022 - 2024)
     - course: BSc Geosciences
       institution: Universidad de Los Andes
       year: (2016 - 2021)
